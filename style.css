@@ -1,0 +1,41 @@
+.heading
+{
+  font-size: 23px;
+  width: 100%;
+  margin: 0px;
+}
+.note
+{
+  font-size: 18px;
+  color: black;
+}
+body
+{
+  background-position: center;
+  background-size: cover;	
+}
+
+#song
+{
+  font-size: 23px;
+  margin: 15px;
+}
+  canvas 
+{
+  border:5px solid white;
+  border-radius:20px;
+  box-shadow: 5px 5px 5px #73cfd8;
+}
+
+.footer{
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background-color: rgb(3, 167, 3);
+  color: white;
+  height: 45px;
+  font-size: 20px;
+  text-align: center;
+  font-family: cursive;
+  padding-top: 8px;
+}
